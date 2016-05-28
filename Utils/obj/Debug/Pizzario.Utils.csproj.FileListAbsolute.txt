@@ -1,0 +1,5 @@
+C:\Users\iq110\Documents\Visual Studio 2013\Projects\sergeiz-ipz_pizzario_2016-b6a2452289b6\lab4_csharp\Pizzario.Utils\bin\Debug\Pizzario.Utils.dll
+C:\Users\iq110\Documents\Visual Studio 2013\Projects\sergeiz-ipz_pizzario_2016-b6a2452289b6\lab4_csharp\Pizzario.Utils\bin\Debug\Pizzario.Utils.pdb
+C:\Users\iq110\Documents\Visual Studio 2013\Projects\sergeiz-ipz_pizzario_2016-b6a2452289b6\lab4_csharp\Pizzario.Utils\obj\Debug\Pizzario.Utils.csprojResolveAssemblyReference.cache
+C:\Users\iq110\Documents\Visual Studio 2013\Projects\sergeiz-ipz_pizzario_2016-b6a2452289b6\lab4_csharp\Pizzario.Utils\obj\Debug\Pizzario.Utils.dll
+C:\Users\iq110\Documents\Visual Studio 2013\Projects\sergeiz-ipz_pizzario_2016-b6a2452289b6\lab4_csharp\Pizzario.Utils\obj\Debug\Pizzario.Utils.pdb

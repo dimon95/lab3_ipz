@@ -1,0 +1,34 @@
+C:\Users\iq110\Documents\Visual Studio 2013\Projects\lab3Zaichenko\lab3_ipz\ModelDBContext\obj\Debug\ModelDBContext.csprojResolveAssemblyReference.cache
+C:\Users\iq110\Documents\Visual Studio 2013\Projects\lab3Zaichenko\lab3_ipz\ModelDBContext\bin\Debug\ModelDBContext.dll.config
+C:\Users\iq110\Documents\Visual Studio 2013\Projects\lab3Zaichenko\lab3_ipz\ModelDBContext\bin\Debug\ModelDBContext.dll
+C:\Users\iq110\Documents\Visual Studio 2013\Projects\lab3Zaichenko\lab3_ipz\ModelDBContext\bin\Debug\ModelDBContext.pdb
+C:\Users\iq110\Documents\Visual Studio 2013\Projects\lab3Zaichenko\lab3_ipz\ModelDBContext\bin\Debug\EntityFramework.dll
+C:\Users\iq110\Documents\Visual Studio 2013\Projects\lab3Zaichenko\lab3_ipz\ModelDBContext\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\iq110\Documents\Visual Studio 2013\Projects\lab3Zaichenko\lab3_ipz\ModelDBContext\bin\Debug\hotel.dll
+C:\Users\iq110\Documents\Visual Studio 2013\Projects\lab3Zaichenko\lab3_ipz\ModelDBContext\bin\Debug\Utils.dll
+C:\Users\iq110\Documents\Visual Studio 2013\Projects\lab3Zaichenko\lab3_ipz\ModelDBContext\bin\Debug\EntityFramework.xml
+C:\Users\iq110\Documents\Visual Studio 2013\Projects\lab3Zaichenko\lab3_ipz\ModelDBContext\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\iq110\Documents\Visual Studio 2013\Projects\lab3Zaichenko\lab3_ipz\ModelDBContext\bin\Debug\hotel.pdb
+C:\Users\iq110\Documents\Visual Studio 2013\Projects\lab3Zaichenko\lab3_ipz\ModelDBContext\bin\Debug\Utils.pdb
+C:\Users\iq110\Documents\Visual Studio 2013\Projects\lab3Zaichenko\lab3_ipz\ModelDBContext\obj\Debug\ModelDBContext.dll
+C:\Users\iq110\Documents\Visual Studio 2013\Projects\lab3Zaichenko\lab3_ipz\ModelDBContext\obj\Debug\ModelDBContext.pdb
+C:\Users\iq110\Documents\Visual Studio 2013\Projects\lab3Zaichenko\lab3_ipz\ModelDBContext\obj\Debug\ModelDBContext.Migrations.InitialCreate.resources
+C:\Users\iq110\Documents\Visual Studio 2013\Projects\lab3Zaichenko\lab3_ipz\ModelDBContext\obj\Debug\ModelDBContext.csproj.GenerateResource.Cache
+C:\Users\iq110\Documents\Visual Studio 2013\Projects\lab3Zaichenko\lab3_ipz\ModelDBContext\obj\Debug\ModelDBContext.Migrations.second.resources
+C:\Users\Dimon\Desktop\lab3_ipz\ModelDBContext\bin\Debug\ModelDBContext.dll.config
+C:\Users\Dimon\Desktop\lab3_ipz\ModelDBContext\bin\Debug\ModelDBContext.dll
+C:\Users\Dimon\Desktop\lab3_ipz\ModelDBContext\bin\Debug\ModelDBContext.pdb
+C:\Users\Dimon\Desktop\lab3_ipz\ModelDBContext\bin\Debug\EntityFramework.dll
+C:\Users\Dimon\Desktop\lab3_ipz\ModelDBContext\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Dimon\Desktop\lab3_ipz\ModelDBContext\bin\Debug\hotel.dll
+C:\Users\Dimon\Desktop\lab3_ipz\ModelDBContext\bin\Debug\Utils.dll
+C:\Users\Dimon\Desktop\lab3_ipz\ModelDBContext\bin\Debug\EntityFramework.xml
+C:\Users\Dimon\Desktop\lab3_ipz\ModelDBContext\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Dimon\Desktop\lab3_ipz\ModelDBContext\bin\Debug\hotel.pdb
+C:\Users\Dimon\Desktop\lab3_ipz\ModelDBContext\bin\Debug\Utils.pdb
+C:\Users\Dimon\Desktop\lab3_ipz\ModelDBContext\obj\Debug\ModelDBContext.csprojResolveAssemblyReference.cache
+C:\Users\Dimon\Desktop\lab3_ipz\ModelDBContext\obj\Debug\ModelDBContext.Migrations.InitialCreate.resources
+C:\Users\Dimon\Desktop\lab3_ipz\ModelDBContext\obj\Debug\ModelDBContext.Migrations.second.resources
+C:\Users\Dimon\Desktop\lab3_ipz\ModelDBContext\obj\Debug\ModelDBContext.csproj.GenerateResource.Cache
+C:\Users\Dimon\Desktop\lab3_ipz\ModelDBContext\obj\Debug\ModelDBContext.dll
+C:\Users\Dimon\Desktop\lab3_ipz\ModelDBContext\obj\Debug\ModelDBContext.pdb

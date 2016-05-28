@@ -1,0 +1,5 @@
+C:\Users\iq110\Documents\Visual Studio 2013\Projects\lab3Zaichenko\lab3_ipz\Utils\bin\Debug\Utils.dll
+C:\Users\iq110\Documents\Visual Studio 2013\Projects\lab3Zaichenko\lab3_ipz\Utils\bin\Debug\Utils.pdb
+C:\Users\iq110\Documents\Visual Studio 2013\Projects\lab3Zaichenko\lab3_ipz\Utils\obj\Debug\Utils.csprojResolveAssemblyReference.cache
+C:\Users\iq110\Documents\Visual Studio 2013\Projects\lab3Zaichenko\lab3_ipz\Utils\obj\Debug\Utils.dll
+C:\Users\iq110\Documents\Visual Studio 2013\Projects\lab3Zaichenko\lab3_ipz\Utils\obj\Debug\Utils.pdb

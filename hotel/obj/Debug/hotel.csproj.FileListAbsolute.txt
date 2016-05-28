@@ -1,0 +1,19 @@
+F:\С#_projects_vs2015\Labs\lab3_ipz\hotel\bin\Debug\hotel.dll
+F:\С#_projects_vs2015\Labs\lab3_ipz\hotel\bin\Debug\hotel.pdb
+F:\С#_projects_vs2015\Labs\lab3_ipz\hotel\bin\Debug\Pizzario.Utils.dll
+F:\С#_projects_vs2015\Labs\lab3_ipz\hotel\bin\Debug\Pizzario.Utils.pdb
+F:\С#_projects_vs2015\Labs\lab3_ipz\hotel\obj\Debug\hotel.csprojResolveAssemblyReference.cache
+F:\С#_projects_vs2015\Labs\lab3_ipz\hotel\obj\Debug\hotel.dll
+F:\С#_projects_vs2015\Labs\lab3_ipz\hotel\obj\Debug\hotel.pdb
+C:\Users\iq110\Documents\Visual Studio 2013\Projects\lab3Zaichenko\lab3_ipz\hotel\bin\Debug\hotel.dll.config
+C:\Users\iq110\Documents\Visual Studio 2013\Projects\lab3Zaichenko\lab3_ipz\hotel\bin\Debug\hotel.dll
+C:\Users\iq110\Documents\Visual Studio 2013\Projects\lab3Zaichenko\lab3_ipz\hotel\bin\Debug\hotel.pdb
+C:\Users\iq110\Documents\Visual Studio 2013\Projects\lab3Zaichenko\lab3_ipz\hotel\bin\Debug\EntityFramework.dll
+C:\Users\iq110\Documents\Visual Studio 2013\Projects\lab3Zaichenko\lab3_ipz\hotel\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\iq110\Documents\Visual Studio 2013\Projects\lab3Zaichenko\lab3_ipz\hotel\bin\Debug\EntityFramework.xml
+C:\Users\iq110\Documents\Visual Studio 2013\Projects\lab3Zaichenko\lab3_ipz\hotel\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\iq110\Documents\Visual Studio 2013\Projects\lab3Zaichenko\lab3_ipz\hotel\obj\Debug\hotel.csprojResolveAssemblyReference.cache
+C:\Users\iq110\Documents\Visual Studio 2013\Projects\lab3Zaichenko\lab3_ipz\hotel\obj\Debug\hotel.dll
+C:\Users\iq110\Documents\Visual Studio 2013\Projects\lab3Zaichenko\lab3_ipz\hotel\obj\Debug\hotel.pdb
+C:\Users\iq110\Documents\Visual Studio 2013\Projects\lab3Zaichenko\lab3_ipz\hotel\bin\Debug\Utils.dll
+C:\Users\iq110\Documents\Visual Studio 2013\Projects\lab3Zaichenko\lab3_ipz\hotel\bin\Debug\Utils.pdb

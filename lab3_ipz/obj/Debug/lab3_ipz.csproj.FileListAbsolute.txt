@@ -1,0 +1,42 @@
+F:\С#_projects_vs2015\Labs\lab3_ipz\lab3_ipz\bin\Debug\lab3_ipz.exe.config
+F:\С#_projects_vs2015\Labs\lab3_ipz\lab3_ipz\bin\Debug\lab3_ipz.exe
+F:\С#_projects_vs2015\Labs\lab3_ipz\lab3_ipz\bin\Debug\lab3_ipz.pdb
+F:\С#_projects_vs2015\Labs\lab3_ipz\lab3_ipz\bin\Debug\Pizzario.Utils.dll
+F:\С#_projects_vs2015\Labs\lab3_ipz\lab3_ipz\bin\Debug\Pizzario.Utils.pdb
+F:\С#_projects_vs2015\Labs\lab3_ipz\lab3_ipz\obj\Debug\lab3_ipz.csprojResolveAssemblyReference.cache
+F:\С#_projects_vs2015\Labs\lab3_ipz\lab3_ipz\obj\Debug\lab3_ipz.exe
+F:\С#_projects_vs2015\Labs\lab3_ipz\lab3_ipz\obj\Debug\lab3_ipz.pdb
+F:\С#_projects_vs2015\Labs\lab3_ipz\lab3_ipz\bin\Debug\hotel.dll
+F:\С#_projects_vs2015\Labs\lab3_ipz\lab3_ipz\bin\Debug\hotel.pdb
+C:\Users\iq110\Documents\Visual Studio 2013\Projects\lab3Zaichenko\lab3_ipz\lab3_ipz\bin\Debug\lab3_ipz.exe.config
+C:\Users\iq110\Documents\Visual Studio 2013\Projects\lab3Zaichenko\lab3_ipz\lab3_ipz\obj\Debug\lab3_ipz.exe
+C:\Users\iq110\Documents\Visual Studio 2013\Projects\lab3Zaichenko\lab3_ipz\lab3_ipz\obj\Debug\lab3_ipz.pdb
+C:\Users\iq110\Documents\Visual Studio 2013\Projects\lab3Zaichenko\lab3_ipz\lab3_ipz\obj\Debug\lab3_ipz.csprojResolveAssemblyReference.cache
+C:\Users\iq110\Documents\Visual Studio 2013\Projects\lab3Zaichenko\lab3_ipz\lab3_ipz\bin\Debug\lab3_ipz.exe
+C:\Users\iq110\Documents\Visual Studio 2013\Projects\lab3Zaichenko\lab3_ipz\lab3_ipz\bin\Debug\lab3_ipz.pdb
+C:\Users\iq110\Documents\Visual Studio 2013\Projects\lab3Zaichenko\lab3_ipz\lab3_ipz\bin\Debug\EntityFramework.dll
+C:\Users\iq110\Documents\Visual Studio 2013\Projects\lab3Zaichenko\lab3_ipz\lab3_ipz\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\iq110\Documents\Visual Studio 2013\Projects\lab3Zaichenko\lab3_ipz\lab3_ipz\bin\Debug\hotel.dll
+C:\Users\iq110\Documents\Visual Studio 2013\Projects\lab3Zaichenko\lab3_ipz\lab3_ipz\bin\Debug\ModelDBContext.dll
+C:\Users\iq110\Documents\Visual Studio 2013\Projects\lab3Zaichenko\lab3_ipz\lab3_ipz\bin\Debug\Utils.dll
+C:\Users\iq110\Documents\Visual Studio 2013\Projects\lab3Zaichenko\lab3_ipz\lab3_ipz\bin\Debug\hotel.pdb
+C:\Users\iq110\Documents\Visual Studio 2013\Projects\lab3Zaichenko\lab3_ipz\lab3_ipz\bin\Debug\ModelDBContext.pdb
+C:\Users\iq110\Documents\Visual Studio 2013\Projects\lab3Zaichenko\lab3_ipz\lab3_ipz\bin\Debug\EntityFramework.xml
+C:\Users\iq110\Documents\Visual Studio 2013\Projects\lab3Zaichenko\lab3_ipz\lab3_ipz\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\iq110\Documents\Visual Studio 2013\Projects\lab3Zaichenko\lab3_ipz\lab3_ipz\bin\Debug\Utils.pdb
+C:\Users\Dimon\Desktop\lab3_ipz\lab3_ipz\bin\Debug\lab3_ipz.exe.config
+C:\Users\Dimon\Desktop\lab3_ipz\lab3_ipz\obj\Debug\lab3_ipz.exe
+C:\Users\Dimon\Desktop\lab3_ipz\lab3_ipz\obj\Debug\lab3_ipz.pdb
+C:\Users\Dimon\Desktop\lab3_ipz\lab3_ipz\bin\Debug\lab3_ipz.exe
+C:\Users\Dimon\Desktop\lab3_ipz\lab3_ipz\bin\Debug\lab3_ipz.pdb
+C:\Users\Dimon\Desktop\lab3_ipz\lab3_ipz\bin\Debug\EntityFramework.dll
+C:\Users\Dimon\Desktop\lab3_ipz\lab3_ipz\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Dimon\Desktop\lab3_ipz\lab3_ipz\bin\Debug\hotel.dll
+C:\Users\Dimon\Desktop\lab3_ipz\lab3_ipz\bin\Debug\ModelDBContext.dll
+C:\Users\Dimon\Desktop\lab3_ipz\lab3_ipz\bin\Debug\Utils.dll
+C:\Users\Dimon\Desktop\lab3_ipz\lab3_ipz\bin\Debug\hotel.pdb
+C:\Users\Dimon\Desktop\lab3_ipz\lab3_ipz\bin\Debug\ModelDBContext.pdb
+C:\Users\Dimon\Desktop\lab3_ipz\lab3_ipz\bin\Debug\EntityFramework.xml
+C:\Users\Dimon\Desktop\lab3_ipz\lab3_ipz\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Dimon\Desktop\lab3_ipz\lab3_ipz\bin\Debug\Utils.pdb
+C:\Users\Dimon\Desktop\lab3_ipz\lab3_ipz\obj\Debug\lab3_ipz.csprojResolveAssemblyReference.cache
